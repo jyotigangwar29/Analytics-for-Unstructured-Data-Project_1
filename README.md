@@ -27,9 +27,13 @@ Offered recommendations on product attributes and brand positioning in the luxur
 Identified key features that are strongly associated with top brands, providing strategic advice for brand marketing and development.
 
 ## Files Included
+
 *analysis.ipynb:* A single Python notebook containing all the data analysis, including the scraper code, Zipf’s law test, brand frequency counts, lift ratio calculations, MDS mapping, and feature analysis.
+
 *edmunds_forum_posts.csv:* The CSV file containing the scraped posts from the Edmunds forum.
+
 *car_models_and_brands_v1.csv:* A CSV file containing the list of car models and brands used for data cleaning.
 
 ## Conclusion
+
 This project provides actionable insights into the competitive landscape of entry-level luxury cars, guiding JD Power in understanding brand perceptions, consumer desires, and key product features that drive discussions.
