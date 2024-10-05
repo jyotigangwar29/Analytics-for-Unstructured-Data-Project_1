@@ -9,10 +9,15 @@ Data Scraping: A Python web scraper was developed to extract around 5000 posts f
 ## Data Analysis:
 
 *Zipf's Law:* Tested Zipf’s law econometrically to observe the frequency distribution of words, plotting the top 100 most frequent words.
+
 *Brand Frequency Counts:* Extracted the top 10 car brands based on word frequency counts, replacing specific car models with their respective brands.
+
 *Lift Calculation:* Calculated the lift ratios for associations between the top-10 brands, ensuring brands mentioned multiple times in a post were only counted once.
+
 *Multi-Dimensional Scaling (MDS):* Visualized the relationships between brands using MDS to uncover proximity and clustering.
+
 *Attribute Identification:* Identified the top 5 most frequently mentioned car features/attributes and analyzed the association between these features and the brands.
+
 *Aspirational Brand Analysis:* Determined the most aspirational brand by analyzing consumer discussions about brand desire and purchasing intent.
 
 ## Insights & Recommendations:
